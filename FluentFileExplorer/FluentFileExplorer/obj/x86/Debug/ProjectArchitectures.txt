@@ -1,0 +1,1 @@
+E:\FluentFileExplorer\FluentFileExplorer\FluentFileExplorer\FluentFileExplorer.csproj;x86
